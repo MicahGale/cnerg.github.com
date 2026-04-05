@@ -1,6 +1,6 @@
 ---
 layout: person
-title: Micah D. Gale
+title: Micah D. Gale, P.E.
 image: DSC_4522.jpg
 role: PhD Student, Nuclear Engineer at Idaho National Laboratory
 email: mdgale@wisc.edu
@@ -59,3 +59,7 @@ In that work he conducted neutronics analyses to support irradiation of fuels an
  * Nuclear Engineer, Idaho National Laboratory, Idaho Falls, ID (2019 – present)
  * Materials Data Engineer, TerraPower, Bellevue, WA (2018)
  * Massachusetts Institute of Technology, Cambridge, MA (BS Nuclear Science & Engineering, 2014 – 2018)
+
+## Licenses
+
+* [Professional Engineer, state of Wisconsin](https://license.wi.gov/s/licenseView?id=0cEcr000001y6TNEAY)

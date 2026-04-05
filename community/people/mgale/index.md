@@ -20,8 +20,10 @@ services:
     * Nonorthogonal functional expansion tallies (FET)
     * Computer Aided Design (CAD) based transport
     * Ray tracing
+    * Gradient from FETs
  * Neutronics Methods
  * Neutronics as a tool
+    * Optimization of fusion power plants
     * Computer Integrated Engineering workflows
     * Software Defined Modeling
     * Radiation Damage Modeling
@@ -29,16 +31,12 @@ services:
 
 ## Academic Research
 
-Micah is currently researching the feasibility of using [Non-uniform rational B-spline](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) (NURBS) 
-as a possible basis for functional expansion tallies (FET) in Monte Carlo radiation transport.
-NURBS are primarily used in CAD as the mathematical way to represent the complicated surfaces that can be present in CAD,
-and they have shown to be very useful in this role.
-NURBS as a class of FET bases show great potential for being generalized FET bases.
+TODO 
 
 ### Publications
 
  * Micah D. Gale, Patrick C. Shriwise, and Paul P. H. Wilson, "Working with Bézier Curves as Nonorthogonal Bases for Functional Expansion Tallies", 
-*International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)*, Accepted.
+*International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)*, April, 2025.
 
 ## National Laboratory Projects
 

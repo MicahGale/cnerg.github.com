@@ -185,6 +185,15 @@ transmutation of used nuclear fuel.  "
   abstract:
   pubs:
   project_url:
+- short_code: spline_ldrd
+  area_code: rtnam
+  title: TODO
+  agency: inlldrd
+  start_date: 2025-10-01
+  end_date: 2027-09-30
+  lead_pi: mgale
+  cnerg_collaborators: pphw
+  other_collaborators: ["ajn", "pcs"]   
 
 
 
